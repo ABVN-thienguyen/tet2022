@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tet2022", "tet2022\tet2022.csproj", "{61389302-7169-4910-91CF-8435E56E8889}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tet Nham Dan - Version 2.0", "Tet Nham Dan - Version 2.0\Tet Nham Dan - Version 2.0.vdproj", "{81694E30-D8A6-4705-B5B7-DA25930EF4E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61389302-7169-4910-91CF-8435E56E8889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61389302-7169-4910-91CF-8435E56E8889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61389302-7169-4910-91CF-8435E56E8889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81694E30-D8A6-4705-B5B7-DA25930EF4E4}.Debug|Any CPU.ActiveCfg = Release
+		{81694E30-D8A6-4705-B5B7-DA25930EF4E4}.Debug|Any CPU.Build.0 = Release
+		{81694E30-D8A6-4705-B5B7-DA25930EF4E4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
